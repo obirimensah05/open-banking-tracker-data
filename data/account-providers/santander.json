@@ -93,6 +93,7 @@
   ],
   "apiAggregators": [
     "bridgeapi-io",
+    "finexer",
     "gocardless",
     "klarna",
     "lunchflow",

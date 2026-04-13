@@ -131,6 +131,7 @@
   "apiAggregators": [
     "bridgeapi-io",
     "equensworldline",
+    "finexer",
     "fintecture",
     "moneyhub-enterprise",
     "nordigen",

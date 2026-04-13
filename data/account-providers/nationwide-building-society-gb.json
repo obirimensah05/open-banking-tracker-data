@@ -85,17 +85,18 @@
     }
   ],
   "apiAggregators": [
-    "plaid",
-    "truelayer",
-    "klarna",
-    "token",
-    "yolt",
-    "openwrks",
-    "salt-edge",
     "banked",
     "bridgeapi-io",
     "equensworldline",
-    "moneyhub-enterprise"
+    "finexer",
+    "klarna",
+    "moneyhub-enterprise",
+    "openwrks",
+    "plaid",
+    "salt-edge",
+    "token",
+    "truelayer",
+    "yolt"
   ],
   "ownership": [
     {

@@ -124,14 +124,15 @@
   ],
   "apiStandards": [],
   "apiAggregators": [
-    "plaid",
-    "nordigen",
-    "fintecture",
     "bridgeapi-io",
+    "finexer",
+    "fintecture",
     "moneyhub-enterprise",
-    "truelayer",
+    "nordigen",
+    "plaid",
     "salt-edge",
-    "tink"
+    "tink",
+    "truelayer"
   ],
   "collections": [],
   "webApplication": true,

@@ -178,6 +178,7 @@
   "apiAggregators": [
     "banked",
     "equensworldline",
+    "finexer",
     "friendlyscore",
     "gocardless",
     "klarna",

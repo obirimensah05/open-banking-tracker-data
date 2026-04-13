@@ -38,6 +38,7 @@
   "stockSymbol": "",
   "apiAggregators": [
     "bridgeapi-io",
+    "finexer",
     "gocardless",
     "lunchflow",
     "plaid",

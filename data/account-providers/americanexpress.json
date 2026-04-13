@@ -87,16 +87,17 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "akahu",
     "bridgeapi-io",
     "budget-insight",
     "fidel-uk",
+    "finexer",
+    "lunchflow",
     "moneyhub-enterprise",
     "powens",
     "salt-edge",
     "tink",
-    "truelayer",
-    "akahu",
-    "lunchflow"
+    "truelayer"
   ],
   "collections": [],
   "webApplication": true,

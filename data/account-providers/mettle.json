@@ -66,6 +66,7 @@
     }
   ],
   "apiAggregators": [
+    "finexer",
     "friendlyscore",
     "gocardless",
     "lunchflow",

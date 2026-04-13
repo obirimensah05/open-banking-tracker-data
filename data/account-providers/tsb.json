@@ -115,6 +115,7 @@
   "apiAggregators": [
     "akahu",
     "bridgeapi-io",
+    "finexer",
     "gocardless",
     "lunchflow",
     "nordigen",

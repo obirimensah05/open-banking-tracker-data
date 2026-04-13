@@ -101,6 +101,7 @@
     }
   ],
   "apiAggregators": [
+    "finexer",
     "gocardless",
     "lunchflow",
     "plaid",

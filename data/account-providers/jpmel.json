@@ -30,6 +30,7 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "finexer",
     "plaid",
     "salt-edge"
   ],
