@@ -103,10 +103,11 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "openwrks",
+    "finexer",
     "moneyhub-enterprise",
-    "truelayer",
-    "salt-edge"
+    "openwrks",
+    "salt-edge",
+    "truelayer"
   ],
   "collections": [],
   "webApplication": true,

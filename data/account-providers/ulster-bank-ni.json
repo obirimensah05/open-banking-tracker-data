@@ -54,15 +54,16 @@
   ],
   "apiStandards": [],
   "apiAggregators": [
-    "truelayer",
-    "klarna",
-    "salt-edge",
-    "banqup",
     "banked",
-    "friendlyscore",
+    "banqup",
     "bridgeapi-io",
     "equensworldline",
-    "moneyhub-enterprise"
+    "finexer",
+    "friendlyscore",
+    "klarna",
+    "moneyhub-enterprise",
+    "salt-edge",
+    "truelayer"
   ],
   "webApplication": true,
   "mobileApps": [

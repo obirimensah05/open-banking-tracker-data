@@ -87,6 +87,7 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "finexer",
     "gocardless",
     "lunchflow",
     "salt-edge",

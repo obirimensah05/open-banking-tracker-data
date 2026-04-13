@@ -75,6 +75,7 @@
   "apiStatusUrls": [],
   "apiAggregators": [
     "banked",
+    "finexer",
     "gocardless",
     "lunchflow",
     "moneyhub-enterprise",

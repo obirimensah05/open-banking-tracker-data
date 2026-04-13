@@ -36,6 +36,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://openbanking.cynergybank.co.uk/store/",
   "apiAggregators": [
+    "finexer",
     "gocardless",
     "lunchflow",
     "plaid",

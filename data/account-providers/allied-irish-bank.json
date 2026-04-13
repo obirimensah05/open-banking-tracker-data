@@ -78,13 +78,14 @@
   ],
   "apiStandards": [],
   "apiAggregators": [
-    "salt-edge",
     "banqup",
-    "openwrks",
-    "friendlyscore",
-    "truelayer",
     "equensworldline",
-    "moneyhub-enterprise"
+    "finexer",
+    "friendlyscore",
+    "moneyhub-enterprise",
+    "openwrks",
+    "salt-edge",
+    "truelayer"
   ],
   "webApplication": true,
   "mobileApps": [
